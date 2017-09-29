@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Control.unity
+    guid: 0b90a255dc1ecd9419a5c51672eee96a
+  - enabled: 0
+    path: Assets/Scenes/bear prototype.unity
+    guid: 2a32f8859e9e4fd4b8e4e4c1b534cd61
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: d51d461eb41aa2846861e577ab78af37
+  - enabled: 1
+    path: Assets/Scenes/Scene 2.unity
+    guid: d1eeb22e2cc71fd42ad169cf07c76887
+  - enabled: 1
+    path: Assets/Scenes/SecretScene.unity
+    guid: 78618a4a774fd334494d7f4cb3304c08

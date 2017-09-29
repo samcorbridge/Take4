@@ -1,0 +1,22 @@
+-Respawning
+-Falling platforms
+-invisible platforms
+-walk through platforms
+-running
+-wall jumping
+-checkpoints
+-physics (pushing)
+-maze
+
+
+
+ideas
+-quicksand (slow falling blocks) (change gravity of those blocks only)
+-GUI
+-sliding down mud or waterfall
+-small enemies
+-edge grab?
+-climbing (https://forum.unity3d.com/threads/climbing-script-using-c-solved.373246/)
+-moving platforms
+-falling waterfall/boulders
+-ceiling spikes that fall
